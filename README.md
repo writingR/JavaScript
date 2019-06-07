@@ -25,8 +25,7 @@ HTML + CSS + Javascript
 
 ### JavaScript work Image Link
 1. Script_button_01.html
-
-https://github.com/writingR/JavaScript/commit/9c74bafce243ec3403a24b6d88843160aa931c9b
+https://user-images.githubusercontent.com/50777481/59094652-92d06d00-8951-11e9-9394-560d5e4fcef6.JPG
 <img src="https://user-images.githubusercontent.com/50777481/59094652-92d06d00-8951-11e9-9394-560d5e4fcef6.JPG">
 
 
